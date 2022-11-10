@@ -1,0 +1,9 @@
+{
+    "modules": [
+        "demo/dashboard",
+        "demo/home",
+        "demo/example",
+        "demo/detailitem",
+        "demo/cart_item"
+    ]
+}

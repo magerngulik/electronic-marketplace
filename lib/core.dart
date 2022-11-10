@@ -1,0 +1,11 @@
+export 'package:fhe_template/module/demo/cart_item/controller/cart_item_controller.dart';
+export 'package:fhe_template/module/demo/cart_item/view/cart_item_view.dart';
+export 'package:fhe_template/module/demo/dashboard/controller/dashboard_controller.dart';
+export 'package:fhe_template/module/demo/dashboard/view/dashboard_view.dart';
+export 'package:fhe_template/module/demo/detailitem/controller/detailitem_controller.dart';
+export 'package:fhe_template/module/demo/detailitem/view/detailitem_view.dart';
+export 'package:fhe_template/module/demo/example/controller/example_controller.dart';
+export 'package:fhe_template/module/demo/example/view/example_view.dart';
+export 'package:fhe_template/module/demo/home/controller/home_controller.dart';
+export 'package:fhe_template/module/demo/home/view/home_view.dart';
+export 'package:fhe_template/module/demo/home/widget/con_list.dart';
